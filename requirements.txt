@@ -1,0 +1,19 @@
+# Manipulation & calcul
+pandas
+numpy
+scipy
+
+# Visualisation
+matplotlib
+seaborn
+
+# Profiling exploratoire
+fg-data-profiling
+
+# Machine Learning & Explicabilité
+scikit-learn
+xgboost
+shap
+
+# Intégration Jupyter pour VS Code
+ipykernel
