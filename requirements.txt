@@ -17,3 +17,6 @@ shap
 
 # Intégration Jupyter pour VS Code
 ipykernel
+
+# Version Python
+3.13.16
